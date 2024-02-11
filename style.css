@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 70px;
+    background-color: rgb(255, 123, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-logo a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: 'Protest Riot', sans-serif;
+}
+.nav-anchor ul a{
+    text-decoration: none;
+    padding: 12px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Protest Riot', sans-serif;
+}
+.nav-anchor ul a:hover{
+    color: rgb(240, 201, 201);
+}

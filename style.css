@@ -27,3 +27,8 @@
 .nav-anchor ul a:hover{
     color: rgb(240, 201, 201);
 }
+.slider{
+    background-image: url(/Assignment2/images/pizza.jpg);
+    width: 1349px;
+    height: 700px;
+}

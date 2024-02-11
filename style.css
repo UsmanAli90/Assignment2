@@ -31,4 +31,18 @@
     background-image: url(/Assignment2/images/pizza.jpg);
     width: 1349px;
     height: 700px;
+    animation: slider 9s infinite linear;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@keyframes slider {
+    0%{
+        background-image: url(/Assignment2/images/pizza.jpg);
+    }
+    40%{
+        background-image: url(/Assignment2/images/pizza2.jpg);
+    }
+    80%{
+        background-image: url(/Assignment2/images/pizza3.jpg);
+    }
 }

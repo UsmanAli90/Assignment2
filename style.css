@@ -162,3 +162,58 @@
 .col3 h3{
     padding: 20px 0px;
 }
+.contact-form{
+    margin-top: 70px;
+}
+.contact-form h2{
+    font-size: 30px;
+    text-align: center;
+}
+.form1 form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+
+}
+.form1 label{
+    font-size: 18px;
+}
+.form1 input{
+    width: 300px;
+    height: 20px;
+    margin: 15px;
+}
+.form1 textarea{
+    margin-top: 20px;
+    padding: 12px;
+    width: 300px;
+}
+.form1 button{
+    color: white;
+    margin-top: 20px;
+    background-color: rgb(28, 145, 28);
+    height: 30px;
+    width: 200px;
+}
+.form1 button:hover{
+    cursor: pointer;
+    background-color: rgb(6, 87, 6);
+}
+.form1 input[type="reset"]{
+    color: white;
+    margin-top: 20px;
+    background-color: rgb(28, 145, 28);
+    height: 30px;
+    width: 200px;
+}
+.form1 input[type="reset"]:hover{
+    color: white;
+    margin-top: 20px;
+    background-color: rgb(28, 145, 28);
+    height: 30px;
+    width: 200px;
+    cursor: pointer;
+    background-color: rgb(6, 87, 6);
+}

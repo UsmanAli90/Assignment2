@@ -132,5 +132,33 @@
 .cta button:hover{
    cursor: pointer;
    background-color: rgb(255, 123, 0);
-
+}
+.all2{
+    box-shadow: 2px 2px 2px 2px rgb(92, 75, 75);
+    padding: 20px;
+}
+.three-columns{
+    padding: 50px 20px;
+    
+}
+.col1{
+    padding-bottom: 40px;
+    margin-top:30px;
+}
+.col1 h3{
+    padding: 20px 0px;
+}
+.col2{
+    padding-bottom: 40px;
+    margin-top:30px;
+}
+.col2 h3{
+    padding: 20px 0px;
+}
+.col3{
+    padding-bottom: 40px;
+    margin-top:30px;
+}
+.col3 h3{
+    padding: 20px 0px;
 }
